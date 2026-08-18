@@ -1,0 +1,50 @@
+[
+  {
+    "id": "VC1001",
+    "name": "Suman Naik",
+    "mobile": "9876543210",
+    "area": "Assagao",
+    "location": "Market Road",
+    "category": "Garbage",
+    "description": "Garbage has not been collected near the market bins for three days.",
+    "photo": null,
+    "status": "Pending",
+    "created_at": "2026-08-15T09:30:00"
+  },
+  {
+    "id": "VC1002",
+    "name": "Ajay Kamat",
+    "mobile": "9876543211",
+    "area": "Siolim",
+    "location": "Church Lane",
+    "category": "Drainage",
+    "description": "Drainage water is overflowing after rainfall.",
+    "photo": null,
+    "status": "In Progress",
+    "created_at": "2026-08-16T11:10:00"
+  },
+  {
+    "id": "VC1003",
+    "name": "Meera Desai",
+    "mobile": "9876543212",
+    "area": "Anjuna",
+    "location": "School Road",
+    "category": "Sanitation",
+    "description": "Public washroom needs cleaning and basic repairs.",
+    "photo": null,
+    "status": "Resolved",
+    "created_at": "2026-08-17T14:45:00"
+  },
+  {
+    "id": "VC1004",
+    "name": "Sahil Patil",
+    "mobile": "8666555555",
+    "area": "Virar",
+    "location": "Bolinj",
+    "category": "Garbage",
+    "description": "GARBAGE < LITTERING ON THE ROAD",
+    "photo": "/uploads/7f5677a93ef44257a06ef84782eca0b3.jpg",
+    "status": "Pending",
+    "created_at": "2026-08-18T19:46:15"
+  }
+]

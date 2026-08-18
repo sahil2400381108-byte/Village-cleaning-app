@@ -1,0 +1,2 @@
+/* Keep the success dialog closed until JavaScript opens it after submission. */
+.modal[hidden] { display: none !important; }
